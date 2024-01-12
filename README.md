@@ -19,7 +19,7 @@ Backend Developer
 
 마이폭스바겐 앱 구축 (2021.09 ~ 2021.12) - 아우디폭스바겐코리아 (Ios(react native),Java, Mysql)
 
-HL Klemove 반응형 웹사이트 구축 (2021.12 ~ 2022.04) HL Klemove (Java, Mssql)
+HL Klemove 반응형 웹사이트 구축 (2021.12 ~ 2022.04) HL Klemove (Java, Mssql, Azure)
 
 한국앤컴퍼니 지주사/계열사 웹사이트 운영 (2022.05 ~ 2022.12) - 한국앤컴퍼니 (Java, Oracle, Aws)
 - 한국앤컴퍼니

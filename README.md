@@ -37,11 +37,9 @@ HL Klemove 반응형 웹사이트 구축 (2021.12 ~ 2022.04) HL Klemove (Java, M
 
 한미약품 웹사이트 구축 (2023.04 ~ 2023.09) - 한미약품 (Java, Oracle, Jenkins)
 
-HD현대 ESG 웹사이트 구축(2023.10 ~ 2023.12) - HD현대 (Java, Azure)
-- Apache Tomcat 연동
+HD현대 ESG 웹사이트 구축(2023.10 ~ 2023.12) - HD현대 (Java, Azure, Apache, Tomcat)
 
-kccWolrd 웹사이트 구축(2024.01 ~ 2024.06) - KCC (Java, Mssql)
-- Nginx, Tomcat으로 구동
+kccWolrd 웹사이트 구축(2024.01 ~ 2024.06) - KCC (Java, Mssql, Nginx, Tomcat)
 - kccwolrd , kccmarine 어플리케이션 통합 및 klenze 사이트 연결
 
 삼성페이 이벤트 (2024.11 2025.02) - 삼성(java, Azure, Mysql)

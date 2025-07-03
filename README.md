@@ -1,7 +1,7 @@
 # 권해우
 웹에이전시에서 근무하고 있으며 웹 및 앱 관련된 기술을 다루는 백엔드 엔지니어 입니다.
-스프링 프레임워크를 주로 사용하며
-백엔드에서 다룰수 있는 주요 언어인 Java뿐만 아니라 Javascript, Jquery 등 다른언어들을 사용하며 개발 하고 있습니다.
+Spring 프레임워크를 주로 사용하며
+백엔드에서 다룰수 있는 주요 언어인 Java뿐만 아니라 Javascript, Jquery, React-Native 등 다른언어들을 사용하며 개발 하고 있습니다.
 
 매그넘빈트(2021.03 ~ )
 
@@ -13,11 +13,11 @@ Backend Developer
 - 게이트 페이지 제작
 - 게임런처 브랜드 사이트 구축
 
-자산관리 시스템 개발 (2021.07 ~ ) - 매그넘빈트 (Java, Mysql)
+자산관리 시스템 개발 (2021.07 ~ 현재) - 매그넘빈트 (Java, Mysql)
 
-삼성 갤럭시 스토어 프로모션 대행 (2021.08 ~ 2022.07) - 삼성전자 (Java, Mysql, Aws)
+삼성 갤럭시 스토어 프로모션 대행 (2021.08 ~ 2022.07, 2024.12 ~ 2025.04, 2025.06 ~ 현재) - 삼성전자 (Java, Mysql, Aws, Azure)
 
-마이폭스바겐 앱 구축 (2021.09 ~ 2021.12) - 아우디폭스바겐코리아 (Ios ,Java, Mysql)
+마이폭스바겐 앱 리뉴얼 (2021.09 ~ 2021.12) - 아우디폭스바겐코리아 (Ios ,Java, Mysql)
 - react-native, objective-c 사용
 
 HL Klemove 반응형 웹사이트 구축 (2021.12 ~ 2022.04) HL Klemove (Java, Mssql, Azure)
@@ -46,8 +46,10 @@ kccWolrd 웹사이트 구축(2024.01 ~ 2024.06) - KCC (Java, Mssql, Nginx, Tomca
 
 kccWolrd 웹사이트 운영 (2024.11 ~ 현재)
 
+마이폭스바겐 앱 리뉴얼 (2025.04 ~ 2025.07) - 아우디폭스바겐코리아 (Ios ,React-Native, Swift)
+
 **자격증**
   - 정보처리기사
-  - AZ-700
-  - AZ-305
-  - AZ-104
+  - AZ-700(Microsoft)
+  - AZ-305(Microsoft)
+  - AZ-104(Microsoft)
